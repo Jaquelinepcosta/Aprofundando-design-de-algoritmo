@@ -26,8 +26,6 @@ programa
 	      	j+=2
 	      	escreva("[",k[i],"]")
 
-git remoto adicionar origem https://github.com/Jaquelinepcosta/Distrubuicao-alternada-vetores.git
-
 	      
 	      }
 	   }
